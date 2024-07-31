@@ -511,6 +511,10 @@ h6,
     transition: 0.3s;
 }
 
+.footer {
+    overflow-x: hidden;
+}
+
 .footer .btn.btn-link::before {
     position: relative;
     content: '\f105';
